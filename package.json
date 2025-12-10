@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "version": "1.0.87",
+  "version": "1.0.89",
   "description": "Project description",
   "main": "src/index.js",
   "scripts": {
